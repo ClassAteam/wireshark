@@ -1,0 +1,18 @@
+** Inbox
+* CMake Structure
+** [2022-11-09 Ср 14:12] qtui library
+add_library(qtui OBJECT
+
+[[file:~/repo/wireshark/ui/qt/CMakeLists.txt::add_library(qtui OBJECT]]
+** [2022-11-09 Ср 13:44] wireshark_LIBS
+    set(wireshark_LIBS
+
+[[file:~/repo/wireshark/CMakeLists.txt::set(wireshark_LIBS]]
+** [2022-11-09 Ср 13:42] wireshark_FILES
+    set(wireshark_FILES
+
+[[file:~/repo/wireshark/CMakeLists.txt::set(wireshark_FILES]]
+** [2022-11-09 Ср 13:41] WIRESHARK_SRC
+    set(WIRESHARK_SRC
+
+[[file:~/repo/wireshark/CMakeLists.txt::set(WIRESHARK_SRC]]
